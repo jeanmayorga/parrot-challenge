@@ -1,0 +1,6 @@
+{
+  "name": "@parrot/login",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "license": "MIT"
+}

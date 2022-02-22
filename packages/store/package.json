@@ -1,0 +1,9 @@
+{
+  "name": "@parrot/store",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "zustand": "^3.7.0"
+  }
+}

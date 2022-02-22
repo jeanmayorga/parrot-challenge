@@ -1,0 +1,14 @@
+{
+  "name": "@parrot/root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "run-app": "cd ./packages/app && yarn dev",
+    "build": "lerna bootstrap"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
