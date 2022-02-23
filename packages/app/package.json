@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@parrot/login": "^1.0.0",
+    "@parrot/menu": "^1.0.0",
+    "@parrot/store": "^1.0.0",
+    "@parrot/ui": "^1.0.0",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
